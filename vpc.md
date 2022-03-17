@@ -109,6 +109,15 @@
     
     - 비정상적으로 설정한 경우 : Public IP address가 쿼리됨.
 
+- Endpoint Service
+
+  - [ ] Endpoint 생성 후 승인 확인
+  
+  - [ ] 최종 API의 Security Group 확인 (CIDR추가되어 있어야 함)
+  
+  - [ ] Endpoint DNS 주소로 연결 확인
+  
+
 ### VPC Peering
 
 - ALL
