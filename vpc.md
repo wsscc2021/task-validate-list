@@ -119,6 +119,6 @@
 
   - [ ] DNS settings 활성화 확인
 
-  - [ ] 연결된 Route-Table, Route 확인
+  - [ ] 연결된 Route-Table, Route 확인 (삭제를 시도하면 한눈에 확인 가능함.)
 
   - [ ] 연결 확인 (과제 요구사항에 맞는... ex. HTTP 연결)
